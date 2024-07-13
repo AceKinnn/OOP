@@ -14,9 +14,9 @@
   <li>GSLC1</li>
   <p>This task is a simple song player</p>
   <li>GSLC2</li>
-  <p>This task is a simulation of POS system for furniture shop</p>
+  <p>This task is a simulation of POS system for furniture shop. It provides the implementation of interface and abstract class</p>
   <li>Quiz1</li>
   <p>This task is to provide an explanation and an example of aggregation and composition in OOP</p>
   <li>Quiz2</li>
-  <p>This task is a simple song player</p>
+  <p>This task is to provide an explanation and an example of inheritance implementation</p>
 </ul>
