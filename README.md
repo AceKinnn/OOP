@@ -21,5 +21,5 @@
   <p>This task is to provide an explanation and an example of inheritance implementation</p>
   <li>Project (Kashier)</li>
   <p>This is the final group project for this course. It is a Point-of-Sales (POS) system cashier application.</p>
-  <p><a href="https://github.com/Cranbaerry/Kashier">Kashier Project</a></p>
+  <p href="https://github.com/Cranbaerry/Kashier">Kashier Project</p>
 </ul>
