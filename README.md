@@ -13,4 +13,5 @@
 <p>It is also mandatory to complete all tasks, quizzes, and projects in this course. Therefore, here are the explanations for each folder in this repository.</p>
 <ul>
   <li>GSLC1</li>
+  <p>nin</p>
 </ul>
