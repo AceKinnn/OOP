@@ -14,7 +14,7 @@
   <li>GSLC1</li>
   <p>This task is a simple song player</p>
   <li>GSLC2</li>
-  <p>This task is a simple song player</p>
+  <p>This task is a simulation of POS system for furniture shop</p>
   <li>Quiz1</li>
   <p>This task is a simple song player</p>
   <li>Quiz2</li>
