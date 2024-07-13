@@ -19,4 +19,7 @@
   <p>This task is to provide an explanation and an example of aggregation and composition in OOP</p>
   <li>Quiz2</li>
   <p>This task is to provide an explanation and an example of inheritance implementation</p>
+  <li>Project (Kashier)</li>
+  <p>This is the final group project for this course. It is a POS</p>
+  <a URL:"https://github.com/Cranbaerry/Kashier">Kashier Project</p>
 </ul>
