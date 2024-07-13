@@ -14,12 +14,12 @@
   <li>GSLC1</li>
   <p>This task is a simple song player</p>
   <li>GSLC2</li>
-  <p>This task is a simulation of POS system for furniture shop. It provides the implementation of interface and abstract class</p>
+  <p>This task is a simulation of a Point-of-Sales (POS) system for a furniture shop. It provides the implementation of interface and abstract class</p>
   <li>Quiz1</li>
   <p>This task is to provide an explanation and an example of aggregation and composition in OOP</p>
   <li>Quiz2</li>
   <p>This task is to provide an explanation and an example of inheritance implementation</p>
   <li>Project (Kashier)</li>
-  <p>This is the final group project for this course. It is a POS</p>
-  <a href="https://github.com/Cranbaerry/Kashier">Kashier Project</a>
+  <p>This is the final group project for this course. It is a Point-of-Sales (POS) system cashier application.</p>
+  <p><a href="https://github.com/Cranbaerry/Kashier">Kashier Project</a></p>
 </ul>
